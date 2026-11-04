@@ -1,8 +1,8 @@
 # Math Quiz
 <form>
   Please input your name here:
-  <input type="text">
-  What is 7 &times; 3?
+  <input type="text"> <br/>
+  What is 7 &times; 3? <br/>
   <input type="radio">
   14<br/>
   <input type="radio">

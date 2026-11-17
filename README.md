@@ -27,13 +27,21 @@
   <br/>
   
   What is &frac12; of 18? <br/>
-  <input type="radio" name="q2">
+  <input type="radio" name="q3">
   8<br/>
-  <input type="radio" name="q2">
+  <input type="radio" name="q3">
   10<br/>
-  <input type="radio" name="q2">
+  <input type="radio" name="q3">
   6<br/>
-  <input type="radio" name="q2">
+  <input type="radio" name="q3">
   9<br/>
+  <br/>
+
+  Todd has 456 bottles of whiskey. If he drank 12 bottles a day, how many days would it take for Todd to run out of whiskey? Explain.
+  <br/>
+  <textarea></textarea>
+  <br/>
+
+  
   
 </form>

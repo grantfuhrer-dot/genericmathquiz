@@ -43,7 +43,7 @@
   <textarea></textarea>
   <br/><br/>
   <!--Submit button-->
-  Submit Here:
+  You can submit your test here:
   <br/>
   <input type="submit">
   

@@ -1,9 +1,10 @@
 # Math Quiz
 <form>
+  <!--This is where your name goes.-->
   Please input your name here:
   <input type="text"> <br/>
   <br/>
-  
+  <!--These are the three multiple choice questions.-->
   What is 7 &times; 3? <br/>
   <input type="radio" name="q1">
   14<br/>
@@ -36,12 +37,15 @@
   <input type="radio" name="q3">
   9<br/>
   <br/>
-
+  <!--This is the one word problem.-->
   Todd has 456 bottles of whiskey. If he drank 12 bottles a day, how many days would it take for Todd to run out of whiskey? Explain.
   <br/>
   <textarea></textarea>
+  <br/><br/>
+  <!--Submit button-->
+  Submit Here:
   <br/>
-
+  <input type="submit">
   
   
 </form>
